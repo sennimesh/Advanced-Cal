@@ -21,3 +21,7 @@ Technologies Used
 - CSS3 – Styling & layout
 - JavaScript (ES6) – Calculator logic
 
+Live Preview :
+
+<img src="Advanced-cal.jpg">
+
